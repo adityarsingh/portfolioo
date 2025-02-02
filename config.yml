@@ -56,8 +56,8 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
+    enabled: true # needs to be explicitly set
+    title: Aditya Raj Singh
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
